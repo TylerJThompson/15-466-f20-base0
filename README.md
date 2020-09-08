@@ -22,7 +22,7 @@ https://www.khanacademy.org/computing/computer-programming/programming-natural-s
 
 https://math.stackexchange.com/questions/376090/calculate-pointsx-y-within-an-arc
 
-https://www.google.com/search?client=firefox-b-1-d&q=get+angle+of+point+on+circle#kpvalbx=_6m9RX5W7F_ewytMPq6OeqAs31
+https://www.google.com/search?client=firefox-b-1-d&q=get+angle+of+point+on+circle#kpvalbx=_6m9RX5W7F_ewytMPq6OeqAs31 (the video that Google pulls up at the top)
 
 https://www.programiz.com/cpp-programming/library-function/cmath/atan
 
