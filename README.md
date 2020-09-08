@@ -28,4 +28,4 @@ https://www.programiz.com/cpp-programming/library-function/cmath/atan
 
 https://www.quantstart.com/articles/Mathematical-Constants-in-C/
 
-Note: Some of these web pages contain very small code chunks, but those weren't doing exactly what I needed and were just used as reference to build up to what I did need. Still, they deserve credit. Better safe than sorry with plagiarism. All of these references were used to help me code the NewMode.cpp file.
+Note: Some of these web pages contain very small code chunks, they weren't doing exactly what I needed and were just used as reference to build up to what I did need. Still, they deserve credit. Better safe than sorry with plagiarism. All of these references were used to help me code the NewMode.cpp file.
